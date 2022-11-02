@@ -53,8 +53,6 @@ export default function Home() {
 
     // get user profile
     const { id } = await getUserProfile(accessToken);
-    console.log(songs, name, id);
-
     const newPlaylistId = await createPlaylist(
       accessToken,
       id,
