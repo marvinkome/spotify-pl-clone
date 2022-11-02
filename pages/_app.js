@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <ChakraProvider theme={theme}>
       <Head>
-        <title>Spotify Playlist Clone</title>
+        <title>Peetch</title>
         <meta name="description" content="Clone any spotify playlists" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

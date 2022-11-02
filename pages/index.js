@@ -75,7 +75,7 @@ export default function Home() {
   return (
     <Container maxW="container.sm" py={8}>
       <Stack mb={12}>
-        <Heading>Clone Spotify Playlist</Heading>
+        <Heading>Peetch</Heading>
         <Text>Quickly clone any spotify playlist</Text>
       </Stack>
 
